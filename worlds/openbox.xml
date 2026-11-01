@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<openbox_config xmlns="http://openbox.org/3.4/rc">
+  <focus><focusNew>yes</focusNew></focus>
+  <applications>
+    <application class="Gazebo GUI"><decor>no</decor><position force="yes"><x>0</x><y>0</y></position><size><width>1280</width><height>550</height></size></application>
+  </applications>
+</openbox_config>

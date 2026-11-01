@@ -1,0 +1,5 @@
+__pycache__/
+results/*
+!results/.gitkeep
+*.mp4
+*.zip

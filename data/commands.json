@@ -1,0 +1,390 @@
+{
+  "train": [
+    {
+      "text": "管制室に行って",
+      "label": "reception"
+    },
+    {
+      "text": "管制室へ向かってください",
+      "label": "reception"
+    },
+    {
+      "text": "管制室まで物資を届けて",
+      "label": "reception"
+    },
+    {
+      "text": "管制室へ配送をお願いします",
+      "label": "reception"
+    },
+    {
+      "text": "目的地は管制室です",
+      "label": "reception"
+    },
+    {
+      "text": "管制室に移動して",
+      "label": "reception"
+    },
+    {
+      "text": "コントロールルームに行って",
+      "label": "reception"
+    },
+    {
+      "text": "コントロールルームへ向かってください",
+      "label": "reception"
+    },
+    {
+      "text": "コントロールルームまで物資を届けて",
+      "label": "reception"
+    },
+    {
+      "text": "コントロールルームへ配送をお願いします",
+      "label": "reception"
+    },
+    {
+      "text": "目的地はコントロールルームです",
+      "label": "reception"
+    },
+    {
+      "text": "コントロールルームに移動して",
+      "label": "reception"
+    },
+    {
+      "text": "司令室に行って",
+      "label": "reception"
+    },
+    {
+      "text": "司令室へ向かってください",
+      "label": "reception"
+    },
+    {
+      "text": "司令室まで物資を届けて",
+      "label": "reception"
+    },
+    {
+      "text": "司令室へ配送をお願いします",
+      "label": "reception"
+    },
+    {
+      "text": "目的地は司令室です",
+      "label": "reception"
+    },
+    {
+      "text": "司令室に移動して",
+      "label": "reception"
+    },
+    {
+      "text": "資材庫に行って",
+      "label": "warehouse"
+    },
+    {
+      "text": "資材庫へ向かってください",
+      "label": "warehouse"
+    },
+    {
+      "text": "資材庫まで物資を届けて",
+      "label": "warehouse"
+    },
+    {
+      "text": "資材庫へ配送をお願いします",
+      "label": "warehouse"
+    },
+    {
+      "text": "目的地は資材庫です",
+      "label": "warehouse"
+    },
+    {
+      "text": "資材庫に移動して",
+      "label": "warehouse"
+    },
+    {
+      "text": "物資庫に行って",
+      "label": "warehouse"
+    },
+    {
+      "text": "物資庫へ向かってください",
+      "label": "warehouse"
+    },
+    {
+      "text": "物資庫まで物資を届けて",
+      "label": "warehouse"
+    },
+    {
+      "text": "物資庫へ配送をお願いします",
+      "label": "warehouse"
+    },
+    {
+      "text": "目的地は物資庫です",
+      "label": "warehouse"
+    },
+    {
+      "text": "物資庫に移動して",
+      "label": "warehouse"
+    },
+    {
+      "text": "ストックヤードに行って",
+      "label": "warehouse"
+    },
+    {
+      "text": "ストックヤードへ向かってください",
+      "label": "warehouse"
+    },
+    {
+      "text": "ストックヤードまで物資を届けて",
+      "label": "warehouse"
+    },
+    {
+      "text": "ストックヤードへ配送をお願いします",
+      "label": "warehouse"
+    },
+    {
+      "text": "目的地はストックヤードです",
+      "label": "warehouse"
+    },
+    {
+      "text": "ストックヤードに移動して",
+      "label": "warehouse"
+    },
+    {
+      "text": "研究ラボに行って",
+      "label": "workshop"
+    },
+    {
+      "text": "研究ラボへ向かってください",
+      "label": "workshop"
+    },
+    {
+      "text": "研究ラボまで物資を届けて",
+      "label": "workshop"
+    },
+    {
+      "text": "研究ラボへ配送をお願いします",
+      "label": "workshop"
+    },
+    {
+      "text": "目的地は研究ラボです",
+      "label": "workshop"
+    },
+    {
+      "text": "研究ラボに移動して",
+      "label": "workshop"
+    },
+    {
+      "text": "実験室に行って",
+      "label": "workshop"
+    },
+    {
+      "text": "実験室へ向かってください",
+      "label": "workshop"
+    },
+    {
+      "text": "実験室まで物資を届けて",
+      "label": "workshop"
+    },
+    {
+      "text": "実験室へ配送をお願いします",
+      "label": "workshop"
+    },
+    {
+      "text": "目的地は実験室です",
+      "label": "workshop"
+    },
+    {
+      "text": "実験室に移動して",
+      "label": "workshop"
+    },
+    {
+      "text": "研究区画に行って",
+      "label": "workshop"
+    },
+    {
+      "text": "研究区画へ向かってください",
+      "label": "workshop"
+    },
+    {
+      "text": "研究区画まで物資を届けて",
+      "label": "workshop"
+    },
+    {
+      "text": "研究区画へ配送をお願いします",
+      "label": "workshop"
+    },
+    {
+      "text": "目的地は研究区画です",
+      "label": "workshop"
+    },
+    {
+      "text": "研究区画に移動して",
+      "label": "workshop"
+    },
+    {
+      "text": "充電ドックに行って",
+      "label": "home"
+    },
+    {
+      "text": "充電ドックへ向かってください",
+      "label": "home"
+    },
+    {
+      "text": "充電ドックまで物資を届けて",
+      "label": "home"
+    },
+    {
+      "text": "充電ドックへ配送をお願いします",
+      "label": "home"
+    },
+    {
+      "text": "目的地は充電ドックです",
+      "label": "home"
+    },
+    {
+      "text": "充電ドックに移動して",
+      "label": "home"
+    },
+    {
+      "text": "帰還地点に行って",
+      "label": "home"
+    },
+    {
+      "text": "帰還地点へ向かってください",
+      "label": "home"
+    },
+    {
+      "text": "帰還地点まで物資を届けて",
+      "label": "home"
+    },
+    {
+      "text": "帰還地点へ配送をお願いします",
+      "label": "home"
+    },
+    {
+      "text": "目的地は帰還地点です",
+      "label": "home"
+    },
+    {
+      "text": "帰還地点に移動して",
+      "label": "home"
+    },
+    {
+      "text": "ホームに行って",
+      "label": "home"
+    },
+    {
+      "text": "ホームへ向かってください",
+      "label": "home"
+    },
+    {
+      "text": "ホームまで物資を届けて",
+      "label": "home"
+    },
+    {
+      "text": "ホームへ配送をお願いします",
+      "label": "home"
+    },
+    {
+      "text": "目的地はホームです",
+      "label": "home"
+    },
+    {
+      "text": "ホームに移動して",
+      "label": "home"
+    },
+    {
+      "text": "充電ドックに戻って",
+      "label": "home"
+    },
+    {
+      "text": "基地に戻って",
+      "label": "home"
+    },
+    {
+      "text": "ホームに帰って",
+      "label": "home"
+    },
+    {
+      "text": "ドックへ帰還して",
+      "label": "home"
+    }
+  ],
+  "test": [
+    {
+      "text": "管制室まで届けてほしい",
+      "label": "reception"
+    },
+    {
+      "text": "司令室に向かって",
+      "label": "reception"
+    },
+    {
+      "text": "コントロールルームへ移動をお願い",
+      "label": "reception"
+    },
+    {
+      "text": "資材庫まで運んで",
+      "label": "warehouse"
+    },
+    {
+      "text": "物資庫に配達してほしい",
+      "label": "warehouse"
+    },
+    {
+      "text": "ストックヤードへ移動しよう",
+      "label": "warehouse"
+    },
+    {
+      "text": "研究ラボまで届けよう",
+      "label": "workshop"
+    },
+    {
+      "text": "実験室へ配達して",
+      "label": "workshop"
+    },
+    {
+      "text": "研究区画に向かおう",
+      "label": "workshop"
+    },
+    {
+      "text": "充電ドックへ戻ろう",
+      "label": "home"
+    },
+    {
+      "text": "ホームまで帰還して",
+      "label": "home"
+    },
+    {
+      "text": "基地に戻ってください",
+      "label": "home"
+    },
+    {
+      "text": "こんにちは",
+      "label": "unknown"
+    },
+    {
+      "text": "天気を教えて",
+      "label": "unknown"
+    },
+    {
+      "text": "食堂へ行って",
+      "label": "unknown"
+    },
+    {
+      "text": "管制室には行かないで",
+      "label": "unknown"
+    },
+    {
+      "text": "資材庫と研究ラボに行って",
+      "label": "unknown"
+    },
+    {
+      "text": "研究ラボ以外へ行って",
+      "label": "unknown"
+    },
+    {
+      "text": "充電ドックから管制室へ移動して",
+      "label": "unknown"
+    },
+    {
+      "text": "司令室とホームに行って",
+      "label": "unknown"
+    }
+  ]
+}

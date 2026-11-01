@@ -1,0 +1,13 @@
+services:
+  robot:
+    build: .
+    ports:
+      - "127.0.0.1:6080:6080"
+    volumes:
+      - .:/project
+    shm_size: 1gb
+    environment:
+      - DISPLAY=:1
+      - LIBGL_ALWAYS_SOFTWARE=1
+      - QT_X11_NO_MITSHM=1
+    init: true
